@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Computação`**
 
-Me chamo Cauã Sampaio, tenho 20 anos e sou natural da Bahia. Concluí o ensino médio na Escola SESI Djalma Pessoa, com curso técnico em informática no Senai Cimatec. Atualmente estou cursando Engenharia da Computação e atuo como Trainee na EJ Cimatec Jr. 
+Me chamo Cauã Sampaio, tenho 20 anos e sou natural da Bahia. Concluí o ensino médio na Escola SESI Djalma Pessoa, com curso técnico em informática no Senai Cimatec. Atualmente estou cursando Engenharia da Computação e atuo como Trainee na EJ CIMATEC jr. 
 
 
 <p align="left">
